@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Dafna のシマウマ ポッドキャスト</title>
+    <itunes:owner>
+        <itunes:email>dafna@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Dafna</itunes:author>
+    <description>人気の高い縞模様の馬をペットとして飼うためのガイド</description>
+    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <language>en-us</language>
+    <link>https://www.example.com/podcasts/dafnas-zebras/</link>
+    <item>
+      <title>シマウマの世話についての十大俗説</title>
+      <description>シマウマの世話、餌、繁殖に関する 10 のよくある誤解を紹介します</description>
+      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/toptenmyths.mp3"
+                 type="audio/mpeg" length="34216300"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">dzpodtop10</guid>
+    </item>
+    <item>
+      <title>縞模様を整えて清潔に保つ方法</title>
+      <description>シマウマを清潔に保つのは時間のかかる作業ですが、努力のしがいがあります。</description>
+      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/cleanstripes.mp3"
+                 type="audio/mpeg" length="26004388"/>
+      <itunes:duration>22:48</itunes:duration>
+      <guid>dzpodclean</guid>
+    </item>
+  </channel>
+</rss>
